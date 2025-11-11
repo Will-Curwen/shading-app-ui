@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Will Curwen <willcurwen18@gmail.com>"]
+channels = ["conda-forge"]
+name = "shading-ui"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
